@@ -1,0 +1,16 @@
+{
+   "balance" : 0,
+   "code" : "ew1o2cwe",
+   "country" : null,
+   "createdAt" : "2024-04-16T09:48:20.299Z",
+   "deletedAt" : null,
+   "id" : "a5bff3a0-eee8-49ae-af06-c92168aa24c4",
+   "lifetimeCommission" : false,
+   "note" : null,
+   "revenue" : 0,
+   "source" : null,
+   "status" : false,
+   "totalSpins" : 0,
+   "updatedAt" : "2024-04-16T09:48:20.299Z",
+   "walletBalance" : 0
+}
