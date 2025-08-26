@@ -2,15 +2,15 @@
    "accessToken" : {
       "expiresIn" : 600000000,
       "type" : "Bearer",
-      "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1YjI3MDM2Mi05MTdiLTQyYmUtOTc3NS1iZTc1NDMwOWM4YTUiLCJlbWFpbCI6InJnaG9zdGRhdGFAZ21haWwuY29tIiwiaWF0IjoxNzU2MjE1ODAzLCJleHAiOjIzNTYyMTU4MDN9.62MBo0McOy9LOpNK8rl4CAVaMspZNSk-zBQOsxNatE0"
+      "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5NDAyY2RjNy1iZWM0LTQ1MzgtOTkyMi1jODlkMDBiODY3YzIiLCJlbWFpbCI6InRyYW5tYW5odGh1YW4wMkBnbWFpbC5jb20iLCJpYXQiOjE3MzUxMzc4OTMsImV4cCI6MjMzNTEzNzg5M30.ViR60QTuMTjkMP1dgfsb5cFAr4XwiZDtsvDpaTEbhMs"
    },
-   "host" : "TN8CRhoUOhJwVIQEEtwM0huJo6uINzaJyh+0nrQbNnMp3Xniv7xhUILbDXumLLoNOmT+cAZ+uM9FB+Evt2w80n3lg6x6EpGrtNVS6oeqYBNU80oShpnzIGbBFvsKwtPPNx6t9YCOnwFC+l3uyucz8g==",
+   "his" : "A41440BC-2815-5527-8750-7FE6784F7537",
    "isVinhVien" : true,
    "refreshToken" : {
       "expiresIn" : 2880000000,
       "type" : "Bearer",
-      "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1YjI3MDM2Mi05MTdiLTQyYmUtOTc3NS1iZTc1NDMwOWM4YTUiLCJlbWFpbCI6InJnaG9zdGRhdGFAZ21haWwuY29tIiwiaWF0IjoxNzU2MjE1ODAzLCJleHAiOjQ2MzYyMTU4MDN9.-DyLCAuzygQhhXv1pnL2MhheckK3XABgY6mDY-OPZdg"
+      "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5NDAyY2RjNy1iZWM0LTQ1MzgtOTkyMi1jODlkMDBiODY3YzIiLCJlbWFpbCI6InRyYW5tYW5odGh1YW4wMkBnbWFpbC5jb20iLCJpYXQiOjE3MzUxMzc4OTMsImV4cCI6NDYxNTEzNzg5M30.0rk19aRqiJ_d7R54ilrextP0PhoW37UnH0hZn8gmSR8"
    },
-   "remainingDay" : 33333,
-   "userId" : "5b270362-917b-42be-9775-be754309c8a5"
+   "remainingDay" : 99999,
+   "userId" : "9402cdc7-bec4-4538-9922-c89d00b867c2"
 }
