@@ -4,7 +4,7 @@
       "type" : "Bearer",
       "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5NDAyY2RjNy1iZWM0LTQ1MzgtOTkyMi1jODlkMDBiODY3YzIiLCJlbWFpbCI6InRyYW5tYW5odGh1YW4wMkBnbWFpbC5jb20iLCJpYXQiOjE3MzUxMzc4OTMsImV4cCI6MjMzNTEzNzg5M30.ViR60QTuMTjkMP1dgfsb5cFAr4XwiZDtsvDpaTEbhMs"
    },
-   "his" : "A41440BC-2815-5527-8750-7FE6784F7537",
+   "his" : "",
    "isVinhVien" : true,
    "refreshToken" : {
       "expiresIn" : 2880000000,
