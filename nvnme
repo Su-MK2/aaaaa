@@ -1,0 +1,21 @@
+{
+   "message" : {
+      "userData" : {
+         "__v" : 0,
+         "_id" : "68b05bebabcde88391609d3e",
+         "dateOfBirth" : 1,
+         "email" : "ditemtrenpho@gmail.com",
+         "gender" : "other",
+         "lastRequestPhoneVerifyCode" : 0,
+         "lastRequestVerifyCode" : 0,
+         "mailVerified" : false,
+         "mailVerifyCode" : "205523",
+         "monthOfBirth" : 1,
+         "name" : "ditmecuocdoi",
+         "phoneNumber" : "0978978977",
+         "verified" : false,
+         "yearOfBirth" : 2000
+      }
+   },
+   "status" : "OK"
+}
