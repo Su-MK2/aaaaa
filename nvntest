@@ -1,0 +1,22 @@
+{
+   "message" : {
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJlbWFpbCI6InN1bndpbjk5OSIsIl9pZCI6IjY4YTgxODhmYWJjZGU4ODM5MTVmZjBlYiIsImlhdCI6MTg4ODg4ODg4OCwiZXhwIjoxOTk5OTk5OTk5fQ==.Pa58A-Xzi5z2sQ1g6ZSUv1ld0z7O_bGoQcxqtxmJMdU",
+      "userData" : {
+         "__v" : 0,
+         "_id" : "68a8188fabcde883915ff0eb",
+         "dateOfBirth" : 1,
+         "email" : "sunwin999@gmail.com",
+         "gender" : "other",
+         "lastRequestPhoneVerifyCode" : 0,
+         "lastRequestVerifyCode" : 0,
+         "mailVerified" : false,
+         "mailVerifyCode" : "173699",
+         "monthOfBirth" : 1,
+         "name" : "sunwin999",
+         "phoneNumber" : "0989987741",
+         "verified" : false,
+         "yearOfBirth" : 2000
+      }
+   },
+   "status" : "OK"
+}
