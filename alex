@@ -2,4 +2,3 @@
 {"defer":true,"deferVersion":2,"message":"monitor: Deferring connection...\n"}
 {"defer":true,"deferVersion":2,"message":"monitor: \n[txAdmin] Checking banlist/whitelist... (0/5)\n"}
 {"defer":true,"deferVersion":2,"message":"monitor: \n[txAdmin] Checking banlist/whitelist... (1/5)\n"}
-{"bitVersion":35339108417536,"enhancedHostSupport":false,"gamename":"gta5","handover":{},"maxClients":999,"netlibVersion":2,"onesync":true,"onesync_big":true,"onesync_lh":true,"onesync_population":false,"protocol":5,"pure":2,"sH":false,"token":"fca340dd-9592-4972-8dd0-a3126dd389b8"}
